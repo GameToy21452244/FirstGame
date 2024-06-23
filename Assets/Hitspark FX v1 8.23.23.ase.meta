@@ -1,0 +1,2351 @@
+fileFormatVersion: 2
+guid: 67594a6e1e80ee742a8f0c96a40c2681
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Hitspark FX v1 8.23.23_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1109
+      y: 3976
+      width: 96
+      height: 96
+    spriteID: 5e7d0388d11c6ad4f993425f68cd4250
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1109, y: 3976}
+  - name: Hitspark FX v1 8.23.23_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1213
+      y: 3976
+      width: 96
+      height: 96
+    spriteID: edd851474718e444e9202aa62ebe3cff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1213, y: 3976}
+  - name: Hitspark FX v1 8.23.23_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1317
+      y: 3976
+      width: 96
+      height: 96
+    spriteID: 6069df4d79ecc264eb4def42da1c49b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1317, y: 3976}
+  - name: Hitspark FX v1 8.23.23_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 3977
+      width: 96
+      height: 96
+    spriteID: b1453856881a2dc4987ec41084a039c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 3977}
+  - name: Hitspark FX v1 8.23.23_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 863
+      y: 3977
+      width: 96
+      height: 96
+    spriteID: c30ee38b4cf0eaf49a8bd5e73a34e582
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 863, y: 3977}
+  - name: Hitspark FX v1 8.23.23_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 967
+      y: 3977
+      width: 96
+      height: 96
+    spriteID: 32aa568ab787b7a4ca5d7eaab7e52059
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 967, y: 3977}
+  - name: Hitspark FX v1 8.23.23_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1777
+      y: 4
+      width: 96
+      height: 96
+    spriteID: 616e19bf919447940be0f704daffd0bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1777, y: 4}
+  - name: Hitspark FX v1 8.23.23_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1777
+      y: 108
+      width: 96
+      height: 96
+    spriteID: aaa2d39eab13fe14087a94ec5a51deda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1777, y: 108}
+  - name: Hitspark FX v1 8.23.23_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1777
+      y: 212
+      width: 96
+      height: 96
+    spriteID: f5e857e9a16fe484fbb2c00272e2420f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1777, y: 212}
+  - name: Hitspark FX v1 8.23.23_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1881
+      y: 4
+      width: 96
+      height: 96
+    spriteID: 9004a70e34d001641a4b3a58efe544c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1881, y: 4}
+  - name: Hitspark FX v1 8.23.23_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1881
+      y: 108
+      width: 96
+      height: 96
+    spriteID: 2277992919dde034590bdc62197c9201
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1881, y: 108}
+  - name: Hitspark FX v1 8.23.23_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1881
+      y: 212
+      width: 96
+      height: 96
+    spriteID: 047b8d1dc178da54e90e3ffd60bc4d7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1881, y: 212}
+  - name: Hitspark FX v1 8.23.23_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1777
+      y: 335
+      width: 96
+      height: 96
+    spriteID: 81b5c6f9fa3074d4d8b38a6293edefcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1777, y: 335}
+  - name: Hitspark FX v1 8.23.23_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1777
+      y: 439
+      width: 96
+      height: 96
+    spriteID: fcfe118460b2a5946a5da4ccd976f262
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1777, y: 439}
+  - name: Hitspark FX v1 8.23.23_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1777
+      y: 543
+      width: 96
+      height: 96
+    spriteID: eae8d82e075e3cd45957d3690e1d4f14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1777, y: 543}
+  - name: Hitspark FX v1 8.23.23_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1881
+      y: 335
+      width: 96
+      height: 96
+    spriteID: 75067b7973f737b41a772be49536c7b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1881, y: 335}
+  - name: Hitspark FX v1 8.23.23_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1881
+      y: 439
+      width: 96
+      height: 96
+    spriteID: 992c5da7e643eca409ae00e4c23e9b2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1881, y: 439}
+  - name: Hitspark FX v1 8.23.23_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1881
+      y: 543
+      width: 96
+      height: 96
+    spriteID: 6ac2bf5e36e030f44b95cd1e5153b3ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1881, y: 543}
+  - name: Hitspark FX v1 8.23.23_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1777
+      y: 666
+      width: 96
+      height: 96
+    spriteID: 96382822b8960774997d0905c3ced34a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1777, y: 666}
+  - name: Hitspark FX v1 8.23.23_Frame_19
+    originalName: 
+    pivot: {x: 0.14634146, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 2322
+      width: 328
+      height: 323
+    spriteID: 6e27f78677b806948a56b7fc6aa50bd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 2322}
+  - name: Hitspark FX v1 8.23.23_Frame_20
+    originalName: 
+    pivot: {x: 0.14678898, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 3646
+      width: 327
+      height: 323
+    spriteID: 0b9ef4944dc88454187ac61803d20290
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 3646}
+  - name: Hitspark FX v1 8.23.23_Frame_21
+    originalName: 
+    pivot: {x: 0.14723927, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1109
+      y: 1659
+      width: 326
+      height: 323
+    spriteID: 9eac5655f202ed7459a0979d7d16fc9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1109, y: 1659}
+  - name: Hitspark FX v1 8.23.23_Frame_22
+    originalName: 
+    pivot: {x: 0.14769231, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1109
+      y: 3645
+      width: 325
+      height: 323
+    spriteID: 50d5671fa0751564f9dd2f6492dc1181
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1109, y: 3645}
+  - name: Hitspark FX v1 8.23.23_Frame_23
+    originalName: 
+    pivot: {x: 0.1322314, y: 0.7377049}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 363
+      height: 366
+    spriteID: 850e8b203b61a984f83bf2d7cc9ea3bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Hitspark FX v1 8.23.23_Frame_24
+    originalName: 
+    pivot: {x: 0.13675214, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1500
+      width: 351
+      height: 323
+    spriteID: e4dcf3ed977d6b846abfaa626a24e62f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1500}
+  - name: Hitspark FX v1 8.23.23_Frame_25
+    originalName: 
+    pivot: {x: 0.13913043, y: 0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2824
+      width: 345
+      height: 324
+    spriteID: 54e687359a306f04a8a947cfeda20b03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2824}
+  - name: Hitspark FX v1 8.23.23_Frame_26
+    originalName: 
+    pivot: {x: 0.14035088, y: 0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 2374
+      width: 342
+      height: 324
+    spriteID: 8c989b533cae1f1498fc65dfe46b8650
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 2374}
+  - name: Hitspark FX v1 8.23.23_Frame_27
+    originalName: 
+    pivot: {x: 0.14589666, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 336
+      width: 329
+      height: 323
+    spriteID: ab81f8bf4adc4c940a4c049f7ee141a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 336}
+  - name: Hitspark FX v1 8.23.23_Frame_28
+    originalName: 
+    pivot: {x: 0.14634146, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 2653
+      width: 328
+      height: 323
+    spriteID: 0347f8f76147c6f40b76d8d780f4de8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 2653}
+  - name: Hitspark FX v1 8.23.23_Frame_29
+    originalName: 
+    pivot: {x: 0.14634146, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 2984
+      width: 328
+      height: 323
+    spriteID: d6044313525c0464c8d5417098e9178c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 2984}
+  - name: Hitspark FX v1 8.23.23_Frame_30
+    originalName: 
+    pivot: {x: 0.14634146, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 3315
+      width: 328
+      height: 323
+    spriteID: 54df9673b3062e544bf7dbf796d29cac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 3315}
+  - name: Hitspark FX v1 8.23.23_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1777
+      y: 770
+      width: 96
+      height: 96
+    spriteID: bf84a7a05768e4244a298e7b9f3db147
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1777, y: 770}
+  - name: Hitspark FX v1 8.23.23_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1777
+      y: 874
+      width: 96
+      height: 96
+    spriteID: 5478cf7cdc6db0a4abed0e2a92d6824e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1777, y: 874}
+  - name: Hitspark FX v1 8.23.23_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1881
+      y: 666
+      width: 96
+      height: 96
+    spriteID: 924a4d8f64887a841a1460dc4fd6efd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1881, y: 666}
+  - name: Hitspark FX v1 8.23.23_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1881
+      y: 770
+      width: 96
+      height: 96
+    spriteID: e3194e468ec4e1e48b89e4139e3fe63d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1881, y: 770}
+  - name: Hitspark FX v1 8.23.23_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1881
+      y: 874
+      width: 96
+      height: 96
+    spriteID: 449b159add11cde478c0c2d2f425a480
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1881, y: 874}
+  - name: Hitspark FX v1 8.23.23_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1777
+      y: 997
+      width: 96
+      height: 96
+    spriteID: 4c90abde1981cb44c9d315c42fe9703c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1777, y: 997}
+  - name: Hitspark FX v1 8.23.23_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1777
+      y: 1101
+      width: 96
+      height: 96
+    spriteID: adcaf060597fb264686bee70dd8526f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1777, y: 1101}
+  - name: Hitspark FX v1 8.23.23_Frame_38
+    originalName: 
+    pivot: {x: 0.1322314, y: 0.7377049}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 378
+      width: 363
+      height: 366
+    spriteID: 918c362196c8346429140ce237e50579
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 378}
+  - name: Hitspark FX v1 8.23.23_Frame_39
+    originalName: 
+    pivot: {x: 0.13675214, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1831
+      width: 351
+      height: 323
+    spriteID: 7fdbaf8ac6468af428013e9ae956727d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1831}
+  - name: Hitspark FX v1 8.23.23_Frame_40
+    originalName: 
+    pivot: {x: 0.13913043, y: 0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3156
+      width: 345
+      height: 324
+    spriteID: 9408a8088403af141af4313ec64fd80d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3156}
+  - name: Hitspark FX v1 8.23.23_Frame_41
+    originalName: 
+    pivot: {x: 0.14035088, y: 0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 2706
+      width: 342
+      height: 324
+    spriteID: e4bf39a276d5c0c439f153d1f3ab0878
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 2706}
+  - name: Hitspark FX v1 8.23.23_Frame_42
+    originalName: 
+    pivot: {x: 0.14589666, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 667
+      width: 329
+      height: 323
+    spriteID: 343cc82a83e6b454da29b6f2252dc369
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 667}
+  - name: Hitspark FX v1 8.23.23_Frame_43
+    originalName: 
+    pivot: {x: 0.14678898, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1109
+      y: 4
+      width: 327
+      height: 323
+    spriteID: 8489244d8bdf18744b826c843606426d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1109, y: 4}
+  - name: Hitspark FX v1 8.23.23_Frame_44
+    originalName: 
+    pivot: {x: 0.14723927, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1109
+      y: 1990
+      width: 326
+      height: 323
+    spriteID: 06bb7002cfda7cc46bd6df19a0c3fa53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1109, y: 1990}
+  - name: Hitspark FX v1 8.23.23_Frame_45
+    originalName: 
+    pivot: {x: 0.14769231, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1444
+      y: 4
+      width: 325
+      height: 323
+    spriteID: 80501b2b4ed68e341b98162d85001979
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1444, y: 4}
+  - name: Hitspark FX v1 8.23.23_Frame_46
+    originalName: 
+    pivot: {x: 0.1322314, y: 0.7377049}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 752
+      width: 363
+      height: 366
+    spriteID: 99bf83fa4ba672c47b9cafaa5406297e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 752}
+  - name: Hitspark FX v1 8.23.23_Frame_47
+    originalName: 
+    pivot: {x: 0.13675214, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2162
+      width: 351
+      height: 323
+    spriteID: 462964f82984c394f8bc8ac5e14fd20c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2162}
+  - name: Hitspark FX v1 8.23.23_Frame_48
+    originalName: 
+    pivot: {x: 0.13913043, y: 0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3488
+      width: 345
+      height: 324
+    spriteID: 1a99a29205fe1154bb69814090726df6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3488}
+  - name: Hitspark FX v1 8.23.23_Frame_49
+    originalName: 
+    pivot: {x: 0.14035088, y: 0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 3038
+      width: 342
+      height: 324
+    spriteID: f2b492d1bcdbbf4449c7df0d1cfcea1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 3038}
+  - name: Hitspark FX v1 8.23.23_Frame_50
+    originalName: 
+    pivot: {x: 0.14589666, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 998
+      width: 329
+      height: 323
+    spriteID: eb291d8572c14814e93c06f0ce4d8bf1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 998}
+  - name: Hitspark FX v1 8.23.23_Frame_51
+    originalName: 
+    pivot: {x: 0.14678898, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1109
+      y: 335
+      width: 327
+      height: 323
+    spriteID: e38969c7aced4d04b95fbe88c5f2f7b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1109, y: 335}
+  - name: Hitspark FX v1 8.23.23_Frame_52
+    originalName: 
+    pivot: {x: 0.14723927, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1109
+      y: 2321
+      width: 326
+      height: 323
+    spriteID: ac56607410d80b24a86a013198b184a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1109, y: 2321}
+  - name: Hitspark FX v1 8.23.23_Frame_53
+    originalName: 
+    pivot: {x: 0.14769231, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1444
+      y: 335
+      width: 325
+      height: 323
+    spriteID: f06a9d76d51d6d94f812ab9b0548a89e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1444, y: 335}
+  - name: Hitspark FX v1 8.23.23_Frame_54
+    originalName: 
+    pivot: {x: 0.12765957, y: 0.7241379}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 4
+      width: 376
+      height: 348
+    spriteID: cbd5cafabf1a2f54384569a71bf4e9cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 4}
+  - name: Hitspark FX v1 8.23.23_Frame_55
+    originalName: 
+    pivot: {x: 0.13872832, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 1712
+      width: 346
+      height: 323
+    spriteID: a7a9564b069fa0c47b4716d91ada651e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 1712}
+  - name: Hitspark FX v1 8.23.23_Frame_56
+    originalName: 
+    pivot: {x: 0.13913043, y: 0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 716
+      width: 345
+      height: 324
+    spriteID: aa1ad1d0bbcd8e448bf13ebc05cd21a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 716}
+  - name: Hitspark FX v1 8.23.23_Frame_57
+    originalName: 
+    pivot: {x: 0.14035088, y: 0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 3370
+      width: 342
+      height: 324
+    spriteID: 64b83b0c68e1a3d44942915392349e9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 3370}
+  - name: Hitspark FX v1 8.23.23_Frame_58
+    originalName: 
+    pivot: {x: 0.14589666, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 1329
+      width: 329
+      height: 323
+    spriteID: c362d234e6c55284aab0dbaab43b80c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 1329}
+  - name: Hitspark FX v1 8.23.23_Frame_59
+    originalName: 
+    pivot: {x: 0.14678898, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1109
+      y: 666
+      width: 327
+      height: 323
+    spriteID: 4d0e1dae190c3504a8abced6cad582d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1109, y: 666}
+  - name: Hitspark FX v1 8.23.23_Frame_60
+    originalName: 
+    pivot: {x: 0.14723927, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1109
+      y: 2652
+      width: 326
+      height: 323
+    spriteID: a218b24d5e4f5854da268f64b3a4d2bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1109, y: 2652}
+  - name: Hitspark FX v1 8.23.23_Frame_61
+    originalName: 
+    pivot: {x: 0.14769231, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1444
+      y: 666
+      width: 325
+      height: 323
+    spriteID: 3115e21e6f3f68849aaa1b500f153ac2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1444, y: 666}
+  - name: Hitspark FX v1 8.23.23_Frame_62
+    originalName: 
+    pivot: {x: 0.1322314, y: 0.7377049}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1126
+      width: 363
+      height: 366
+    spriteID: 5b368f90248fb6d4898e2f5b8895530a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1126}
+  - name: Hitspark FX v1 8.23.23_Frame_63
+    originalName: 
+    pivot: {x: 0.13675214, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2493
+      width: 351
+      height: 323
+    spriteID: bdce9da9ad4278c41bc7c41149b57017
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2493}
+  - name: Hitspark FX v1 8.23.23_Frame_64
+    originalName: 
+    pivot: {x: 0.13913043, y: 0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 1048
+      width: 345
+      height: 324
+    spriteID: 0534163702ab8bd44aed58170807ca19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 1048}
+  - name: Hitspark FX v1 8.23.23_Frame_65
+    originalName: 
+    pivot: {x: 0.14035088, y: 0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 3702
+      width: 342
+      height: 324
+    spriteID: 3b3c06e1a3086864693f38b4c1468bf3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 3702}
+  - name: Hitspark FX v1 8.23.23_Frame_66
+    originalName: 
+    pivot: {x: 0.14589666, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 1660
+      width: 329
+      height: 323
+    spriteID: da741ef25e10f964bb46a3555ae9108d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 1660}
+  - name: Hitspark FX v1 8.23.23_Frame_67
+    originalName: 
+    pivot: {x: 0.14678898, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1109
+      y: 997
+      width: 327
+      height: 323
+    spriteID: 313cffdc44cc4f24a8599db95920f287
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1109, y: 997}
+  - name: Hitspark FX v1 8.23.23_Frame_68
+    originalName: 
+    pivot: {x: 0.14723927, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1109
+      y: 2983
+      width: 326
+      height: 323
+    spriteID: 4350a7ac4c1bed849bcee9a98d500339
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1109, y: 2983}
+  - name: Hitspark FX v1 8.23.23_Frame_69
+    originalName: 
+    pivot: {x: 0.14769231, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1444
+      y: 997
+      width: 325
+      height: 323
+    spriteID: 5a3b3ca55b0c6574ca0193a3d8496b92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1444, y: 997}
+  - name: Hitspark FX v1 8.23.23_Frame_70
+    originalName: 
+    pivot: {x: 0.12765957, y: 0.7241379}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 360
+      width: 376
+      height: 348
+    spriteID: 9e6ba2e7ab3bf9545ab54dfc6c8efa19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 360}
+  - name: Hitspark FX v1 8.23.23_Frame_71
+    originalName: 
+    pivot: {x: 0.13872832, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 2043
+      width: 346
+      height: 323
+    spriteID: 07085c01b3680aa4cacae3684517b5eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 2043}
+  - name: Hitspark FX v1 8.23.23_Frame_72
+    originalName: 
+    pivot: {x: 0.13913043, y: 0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 1380
+      width: 345
+      height: 324
+    spriteID: 59b86315394831046822753c65840a41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 1380}
+  - name: Hitspark FX v1 8.23.23_Frame_73
+    originalName: 
+    pivot: {x: 0.14035088, y: 0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 4
+      width: 342
+      height: 324
+    spriteID: 754168f1ee319c24681941fd9a6bbce5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 4}
+  - name: Hitspark FX v1 8.23.23_Frame_74
+    originalName: 
+    pivot: {x: 0.14589666, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 1991
+      width: 329
+      height: 323
+    spriteID: 2cbcb2106e8e29645ac5b665243326af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 1991}
+  - name: Hitspark FX v1 8.23.23_Frame_75
+    originalName: 
+    pivot: {x: 0.14678898, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1109
+      y: 1328
+      width: 327
+      height: 323
+    spriteID: da8c464b12725404fbaa3e9ab6b56408
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1109, y: 1328}
+  - name: Hitspark FX v1 8.23.23_Frame_76
+    originalName: 
+    pivot: {x: 0.14723927, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1109
+      y: 3314
+      width: 326
+      height: 323
+    spriteID: 59c972115d9516a47a7daa15c2de91d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1109, y: 3314}
+  - name: Hitspark FX v1 8.23.23_Frame_77
+    originalName: 
+    pivot: {x: 0.14769231, y: 0.7027863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1444
+      y: 1328
+      width: 325
+      height: 323
+    spriteID: 941c37410793f1247bb136b196196453
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1444, y: 1328}
+  - name: Hitspark FX v1 8.23.23_Frame_78
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1777
+      y: 1205
+      width: 96
+      height: 96
+    spriteID: c773d732b7f2dd04a8973acbe4460bd7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1777, y: 1205}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -762828857
+    name: Hitspark FX v1 8.23.23
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Hitspark FX v1 8.23.23_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 5e7d0388d11c6ad4f993425f68cd4250
+    - name: Hitspark FX v1 8.23.23_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: edd851474718e444e9202aa62ebe3cff
+    - name: Hitspark FX v1 8.23.23_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 6069df4d79ecc264eb4def42da1c49b9
+    - name: Hitspark FX v1 8.23.23_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: b1453856881a2dc4987ec41084a039c8
+    - name: Hitspark FX v1 8.23.23_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: c30ee38b4cf0eaf49a8bd5e73a34e582
+    - name: Hitspark FX v1 8.23.23_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 32aa568ab787b7a4ca5d7eaab7e52059
+    - name: Hitspark FX v1 8.23.23_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 616e19bf919447940be0f704daffd0bf
+    - name: Hitspark FX v1 8.23.23_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: aaa2d39eab13fe14087a94ec5a51deda
+    - name: Hitspark FX v1 8.23.23_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: f5e857e9a16fe484fbb2c00272e2420f
+    - name: Hitspark FX v1 8.23.23_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 9004a70e34d001641a4b3a58efe544c6
+    - name: Hitspark FX v1 8.23.23_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 2277992919dde034590bdc62197c9201
+    - name: Hitspark FX v1 8.23.23_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 047b8d1dc178da54e90e3ffd60bc4d7d
+    - name: Hitspark FX v1 8.23.23_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 81b5c6f9fa3074d4d8b38a6293edefcd
+    - name: Hitspark FX v1 8.23.23_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: fcfe118460b2a5946a5da4ccd976f262
+    - name: Hitspark FX v1 8.23.23_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: eae8d82e075e3cd45957d3690e1d4f14
+    - name: Hitspark FX v1 8.23.23_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 75067b7973f737b41a772be49536c7b5
+    - name: Hitspark FX v1 8.23.23_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 992c5da7e643eca409ae00e4c23e9b2d
+    - name: Hitspark FX v1 8.23.23_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 6ac2bf5e36e030f44b95cd1e5153b3ab
+    - name: Hitspark FX v1 8.23.23_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 96382822b8960774997d0905c3ced34a
+    - name: Hitspark FX v1 8.23.23_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: -227
+        width: 328
+        height: 323
+      spriteId: 6e27f78677b806948a56b7fc6aa50bd0
+    - name: Hitspark FX v1 8.23.23_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 0
+        y: -227
+        width: 327
+        height: 323
+      spriteId: 0b9ef4944dc88454187ac61803d20290
+    - name: Hitspark FX v1 8.23.23_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 0
+        y: -227
+        width: 326
+        height: 323
+      spriteId: 9eac5655f202ed7459a0979d7d16fc9b
+    - name: Hitspark FX v1 8.23.23_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 0
+        y: -227
+        width: 325
+        height: 323
+      spriteId: 50d5671fa0751564f9dd2f6492dc1181
+    - name: Hitspark FX v1 8.23.23_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 0
+        y: -270
+        width: 363
+        height: 366
+      spriteId: 850e8b203b61a984f83bf2d7cc9ea3bc
+    - name: Hitspark FX v1 8.23.23_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 0
+        y: -227
+        width: 351
+        height: 323
+      spriteId: e4dcf3ed977d6b846abfaa626a24e62f
+    - name: Hitspark FX v1 8.23.23_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 0
+        y: -228
+        width: 345
+        height: 324
+      spriteId: 54e687359a306f04a8a947cfeda20b03
+    - name: Hitspark FX v1 8.23.23_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 0
+        y: -228
+        width: 342
+        height: 324
+      spriteId: 8c989b533cae1f1498fc65dfe46b8650
+    - name: Hitspark FX v1 8.23.23_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 0
+        y: -227
+        width: 329
+        height: 323
+      spriteId: ab81f8bf4adc4c940a4c049f7ee141a4
+    - name: Hitspark FX v1 8.23.23_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: -227
+        width: 328
+        height: 323
+      spriteId: 0347f8f76147c6f40b76d8d780f4de8a
+    - name: Hitspark FX v1 8.23.23_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: -227
+        width: 328
+        height: 323
+      spriteId: d6044313525c0464c8d5417098e9178c
+    - name: Hitspark FX v1 8.23.23_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 0
+        y: -227
+        width: 328
+        height: 323
+      spriteId: 54df9673b3062e544bf7dbf796d29cac
+    - name: Hitspark FX v1 8.23.23_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: bf84a7a05768e4244a298e7b9f3db147
+    - name: Hitspark FX v1 8.23.23_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 5478cf7cdc6db0a4abed0e2a92d6824e
+    - name: Hitspark FX v1 8.23.23_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 924a4d8f64887a841a1460dc4fd6efd6
+    - name: Hitspark FX v1 8.23.23_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: e3194e468ec4e1e48b89e4139e3fe63d
+    - name: Hitspark FX v1 8.23.23_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 449b159add11cde478c0c2d2f425a480
+    - name: Hitspark FX v1 8.23.23_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: 4c90abde1981cb44c9d315c42fe9703c
+    - name: Hitspark FX v1 8.23.23_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: adcaf060597fb264686bee70dd8526f7
+    - name: Hitspark FX v1 8.23.23_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 0
+        y: -270
+        width: 363
+        height: 366
+      spriteId: 918c362196c8346429140ce237e50579
+    - name: Hitspark FX v1 8.23.23_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 0
+        y: -227
+        width: 351
+        height: 323
+      spriteId: 7fdbaf8ac6468af428013e9ae956727d
+    - name: Hitspark FX v1 8.23.23_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 0
+        y: -228
+        width: 345
+        height: 324
+      spriteId: 9408a8088403af141af4313ec64fd80d
+    - name: Hitspark FX v1 8.23.23_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 0
+        y: -228
+        width: 342
+        height: 324
+      spriteId: e4bf39a276d5c0c439f153d1f3ab0878
+    - name: Hitspark FX v1 8.23.23_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 0
+        y: -227
+        width: 329
+        height: 323
+      spriteId: 343cc82a83e6b454da29b6f2252dc369
+    - name: Hitspark FX v1 8.23.23_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 0
+        y: -227
+        width: 327
+        height: 323
+      spriteId: 8489244d8bdf18744b826c843606426d
+    - name: Hitspark FX v1 8.23.23_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 0
+        y: -227
+        width: 326
+        height: 323
+      spriteId: 06bb7002cfda7cc46bd6df19a0c3fa53
+    - name: Hitspark FX v1 8.23.23_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 0
+        y: -227
+        width: 325
+        height: 323
+      spriteId: 80501b2b4ed68e341b98162d85001979
+    - name: Hitspark FX v1 8.23.23_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 0
+        y: -270
+        width: 363
+        height: 366
+      spriteId: 99bf83fa4ba672c47b9cafaa5406297e
+    - name: Hitspark FX v1 8.23.23_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 0
+        y: -227
+        width: 351
+        height: 323
+      spriteId: 462964f82984c394f8bc8ac5e14fd20c
+    - name: Hitspark FX v1 8.23.23_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 0
+        y: -228
+        width: 345
+        height: 324
+      spriteId: 1a99a29205fe1154bb69814090726df6
+    - name: Hitspark FX v1 8.23.23_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 0
+        y: -228
+        width: 342
+        height: 324
+      spriteId: f2b492d1bcdbbf4449c7df0d1cfcea1f
+    - name: Hitspark FX v1 8.23.23_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 0
+        y: -227
+        width: 329
+        height: 323
+      spriteId: eb291d8572c14814e93c06f0ce4d8bf1
+    - name: Hitspark FX v1 8.23.23_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 0
+        y: -227
+        width: 327
+        height: 323
+      spriteId: e38969c7aced4d04b95fbe88c5f2f7b9
+    - name: Hitspark FX v1 8.23.23_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 0
+        y: -227
+        width: 326
+        height: 323
+      spriteId: ac56607410d80b24a86a013198b184a2
+    - name: Hitspark FX v1 8.23.23_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 0
+        y: -227
+        width: 325
+        height: 323
+      spriteId: f06a9d76d51d6d94f812ab9b0548a89e
+    - name: Hitspark FX v1 8.23.23_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 0
+        y: -252
+        width: 376
+        height: 348
+      spriteId: cbd5cafabf1a2f54384569a71bf4e9cd
+    - name: Hitspark FX v1 8.23.23_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 0
+        y: -227
+        width: 346
+        height: 323
+      spriteId: a7a9564b069fa0c47b4716d91ada651e
+    - name: Hitspark FX v1 8.23.23_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 0
+        y: -228
+        width: 345
+        height: 324
+      spriteId: aa1ad1d0bbcd8e448bf13ebc05cd21a3
+    - name: Hitspark FX v1 8.23.23_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 0
+        y: -228
+        width: 342
+        height: 324
+      spriteId: 64b83b0c68e1a3d44942915392349e9f
+    - name: Hitspark FX v1 8.23.23_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 0
+        y: -227
+        width: 329
+        height: 323
+      spriteId: c362d234e6c55284aab0dbaab43b80c7
+    - name: Hitspark FX v1 8.23.23_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 0
+        y: -227
+        width: 327
+        height: 323
+      spriteId: 4d0e1dae190c3504a8abced6cad582d1
+    - name: Hitspark FX v1 8.23.23_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 0
+        y: -227
+        width: 326
+        height: 323
+      spriteId: a218b24d5e4f5854da268f64b3a4d2bb
+    - name: Hitspark FX v1 8.23.23_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 0
+        y: -227
+        width: 325
+        height: 323
+      spriteId: 3115e21e6f3f68849aaa1b500f153ac2
+    - name: Hitspark FX v1 8.23.23_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 0
+        y: -270
+        width: 363
+        height: 366
+      spriteId: 5b368f90248fb6d4898e2f5b8895530a
+    - name: Hitspark FX v1 8.23.23_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 0
+        y: -227
+        width: 351
+        height: 323
+      spriteId: bdce9da9ad4278c41bc7c41149b57017
+    - name: Hitspark FX v1 8.23.23_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 0
+        y: -228
+        width: 345
+        height: 324
+      spriteId: 0534163702ab8bd44aed58170807ca19
+    - name: Hitspark FX v1 8.23.23_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 0
+        y: -228
+        width: 342
+        height: 324
+      spriteId: 3b3c06e1a3086864693f38b4c1468bf3
+    - name: Hitspark FX v1 8.23.23_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 0
+        y: -227
+        width: 329
+        height: 323
+      spriteId: da741ef25e10f964bb46a3555ae9108d
+    - name: Hitspark FX v1 8.23.23_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 0
+        y: -227
+        width: 327
+        height: 323
+      spriteId: 313cffdc44cc4f24a8599db95920f287
+    - name: Hitspark FX v1 8.23.23_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 0
+        y: -227
+        width: 326
+        height: 323
+      spriteId: 4350a7ac4c1bed849bcee9a98d500339
+    - name: Hitspark FX v1 8.23.23_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 0
+        y: -227
+        width: 325
+        height: 323
+      spriteId: 5a3b3ca55b0c6574ca0193a3d8496b92
+    - name: Hitspark FX v1 8.23.23_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 0
+        y: -252
+        width: 376
+        height: 348
+      spriteId: 9e6ba2e7ab3bf9545ab54dfc6c8efa19
+    - name: Hitspark FX v1 8.23.23_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 0
+        y: -227
+        width: 346
+        height: 323
+      spriteId: 07085c01b3680aa4cacae3684517b5eb
+    - name: Hitspark FX v1 8.23.23_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 0
+        y: -228
+        width: 345
+        height: 324
+      spriteId: 59b86315394831046822753c65840a41
+    - name: Hitspark FX v1 8.23.23_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 0
+        y: -228
+        width: 342
+        height: 324
+      spriteId: 754168f1ee319c24681941fd9a6bbce5
+    - name: Hitspark FX v1 8.23.23_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 0
+        y: -227
+        width: 329
+        height: 323
+      spriteId: 2cbcb2106e8e29645ac5b665243326af
+    - name: Hitspark FX v1 8.23.23_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 0
+        y: -227
+        width: 327
+        height: 323
+      spriteId: da8c464b12725404fbaa3e9ab6b56408
+    - name: Hitspark FX v1 8.23.23_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 0
+        y: -227
+        width: 326
+        height: 323
+      spriteId: 59c972115d9516a47a7daa15c2de91d6
+    - name: Hitspark FX v1 8.23.23_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 0
+        y: -227
+        width: 325
+        height: 323
+      spriteId: 941c37410793f1247bb136b196196453
+    - name: Hitspark FX v1 8.23.23_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      spriteId: c773d732b7f2dd04a8973acbe4460bd7
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 96}
