@@ -10,6 +10,7 @@ public class BossAnimationControll : MonoBehaviour
     [SerializeField] private string dead;
     [SerializeField] private string attack;
     [SerializeField] private string bossHurt;
+    [SerializeField] private string shotHurt;
 
     public void Move()
     {
@@ -33,7 +34,7 @@ public class BossAnimationControll : MonoBehaviour
     }
     public void BossShotHurt()
     {
-
+        animator.Play(shotHurt);
     }
         
 }

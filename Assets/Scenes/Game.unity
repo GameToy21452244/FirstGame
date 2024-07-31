@@ -6304,7 +6304,7 @@ MonoBehaviour:
   walkState: GunerWalk
   idleState: GunerIdle
   attackState: GunerFire
-  hurtState: 
+  hurtState: GunerHurt
 --- !u!95 &1063583082
 Animator:
   serializedVersion: 5
@@ -14951,6 +14951,21 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  BossAnimationShotHurt:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 9041064177152694525}
+        m_TargetAssemblyTypeName: BossAnimationControll, Assembly-CSharp
+        m_MethodName: BossShotHurt
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   BossAnimationAttack:
     m_PersistentCalls:
       m_Calls:
@@ -14969,6 +14984,7 @@ MonoBehaviour:
   HeathBarRect: {fileID: 7121691246377986233}
   Hurting: 0
   Attacking: 0
+  ShotHurt: 0
 --- !u!61 &2700013468596887940
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15813,6 +15829,7 @@ MonoBehaviour:
   dead: Dead
   attack: Attack
   bossHurt: BossHurt
+  shotHurt: BossShotHurt
 --- !u!4 &9106428436398177666
 Transform:
   m_ObjectHideFlags: 0

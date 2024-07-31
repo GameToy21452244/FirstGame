@@ -26,5 +26,10 @@ public class GunerAttack : MonoBehaviour
             col.GetComponent<Damageable>().TakeDamage(1);
             
         }
+        if (col.CompareTag("Boss"))
+        {
+            col.GetComponent<BossMovement>().ShotHurt = true;
+            col.GetComponent <Damageable>().TakeDamage(1);
+        }
     }
 }

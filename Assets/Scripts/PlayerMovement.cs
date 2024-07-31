@@ -22,7 +22,7 @@ public class PlayerMovement : MonoBehaviour
     bool jumpPress;
     float inputDirection;
     float backPower =100f;
-   public bool bossAttack=false;
+    public bool bossAttack=false;
 
      /*/public void Move(InputValue context)
      {

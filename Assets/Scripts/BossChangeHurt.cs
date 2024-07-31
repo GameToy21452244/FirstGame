@@ -13,4 +13,8 @@ public class BossChangeHurt : MonoBehaviour
     {
         bossMovement.Attacking = false;
     }
+    public void ChangeShotHurtBoss()
+    {
+        bossMovement.ShotHurt= false;
+    }
 }

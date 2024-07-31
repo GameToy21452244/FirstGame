@@ -10,10 +10,12 @@ public class BossMovement : MonoBehaviour
 {
     [SerializeField] private UnityEvent BossAnimationMove;
     [SerializeField] private UnityEvent BossAnimationHurt;
+    [SerializeField] private UnityEvent BossAnimationShotHurt;
     [SerializeField] private UnityEvent BossAnimationAttack;
     [SerializeField] private RectTransform HeathBarRect;
     public bool Hurting = false;
     public bool Attacking = false;
+    public bool ShotHurt = false;
     private float time = 0f;
     void Update()
     {
@@ -26,7 +28,7 @@ public class BossMovement : MonoBehaviour
     }
     public void Move(Vector2 direction)
     {
-        if (direction.x >= 0&&Hurting==false&&Attacking==false)
+        if (direction.x >= 0&&Hurting==false&&Attacking==false&& ShotHurt==false)
         {
             transform.rotation = quaternion.Euler(0, 0, 0);
             HeathBarRect.rotation = quaternion.Euler(0, 0, 0);
@@ -34,7 +36,7 @@ public class BossMovement : MonoBehaviour
 
         }
 
-        else if (direction.x <= 0&&Hurting == false&&Attacking==false)
+        else if (direction.x <= 0&&Hurting == false&&Attacking==false&& ShotHurt==false)
         {
             transform.rotation = quaternion.Euler(0, -160, 0);
             HeathBarRect.rotation = quaternion.Euler(0, 0, 0);
@@ -59,7 +61,16 @@ public class BossMovement : MonoBehaviour
             BossAnimationHurt.Invoke();
 
         }
-      
+        else if (direction.x <= 0 && ShotHurt == true)
+        {
+            BossAnimationShotHurt.Invoke();
+        }
+        else if (direction.x >= 0 && ShotHurt == true)
+        {
+            BossAnimationShotHurt.Invoke();
+        }
+
+
 
     }
    
